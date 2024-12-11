@@ -1,6 +1,9 @@
-pyautogen==0.2.25
+pyautogen==0.5.2
 chess==1.10.0
 matplotlib
 numpy
 pandas
 yfinance
+selenium
+beautifulsoup4
+duckduckgo-search
