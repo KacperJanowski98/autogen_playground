@@ -7,3 +7,4 @@ yfinance
 selenium
 beautifulsoup4
 duckduckgo-search
+webdriver_manager
